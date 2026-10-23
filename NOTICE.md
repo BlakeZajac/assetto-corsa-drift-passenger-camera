@@ -1,0 +1,1 @@
+Copyright 2026 Blake Zajac. Original source and documentation are offered under the PolyForm Noncommercial License 1.0.0 in LICENSE.md. Assetto Corsa and Custom Shaders Patch are separate products with their own licenses and are not included.
